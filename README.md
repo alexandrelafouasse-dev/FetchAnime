@@ -1,7 +1,6 @@
-### Volley
+### Fetch Anime
 
-Volley is an HTTP library that makes networking for Android apps easier and, most
-importantly, faster.
+Fetch Anime is a application developed as part of a school project.
 
-For more information about Volley and how to use it, visit the [Android developer training
-page](https://developer.android.com/training/volley/index.html).
+- Fetching from an Anime API and displaying the most famous one
+- User can set his favorite ones from the list
